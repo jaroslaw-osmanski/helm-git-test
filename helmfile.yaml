@@ -2,7 +2,7 @@ repositories:
   - name: stable
     url: https://kubernetes-charts.storage.googleapis.com
   - name: helm-git-test
-    url: git+https://github.com/jaroslaw-osmanski/helm-git-test/@?ref=feature-test
+    url: git+https://github.com/jaroslaw-osmanski/helm-git-test/@?ref=feature/feature-test
 
 releases:
  - name: deployment
